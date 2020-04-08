@@ -1,0 +1,24 @@
+body{
+    background: #FFC2C2;
+    padding:200px;
+}
+h1{
+    color: #CC0000;
+    font-family: fantasy;
+}
+h2{
+    font-family: fantasy;
+    size:14px;
+}
+p{
+    font-size: 18px;
+}
+img{
+    margin-bottom: 20px;
+}
+
+/*
+section{
+    display: none;
+    visibility: hidden;
+} */
